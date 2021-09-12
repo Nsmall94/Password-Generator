@@ -17,5 +17,5 @@ https://nsmall94.github.io/Password-Generator/
 ![Password-Generator screenshot](assets/images/screenshot.png)
 
 ## contribution
-Madde By Nick Small
+Made By Nick Small
 
