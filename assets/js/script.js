@@ -1,6 +1,6 @@
 // Assignment code here
 var password=document.getElementById("password");
-var chars = "0123456789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var chars = "0123456789abcdefghijklmnopqrstuvwxyz!@#$%&*ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var uppers = confirm("Would you like to use uppercase letters?");
 var lowers = confirm("Would you like to use lowercase letters?");
 var numbers = confirm("Would you like to use numbers?");
